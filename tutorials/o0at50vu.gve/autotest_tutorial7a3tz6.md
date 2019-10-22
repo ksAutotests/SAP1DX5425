@@ -1,5 +1,5 @@
 ---
-title: autotest187SOk
+title: autotest187SOkupdated
 description: autotest72VCK4_10/22/2019 12:32:20 PM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
