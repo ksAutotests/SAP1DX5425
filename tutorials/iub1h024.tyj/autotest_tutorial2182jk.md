@@ -1,5 +1,5 @@
 ---
-title: autotest060mgl
+title: autotest060mglupdated
 description: autotest752377_11/14/2019 6:30:08 PM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
