@@ -1,5 +1,5 @@
 ---
-title: autotestiSO274
+title: autotestiSO274updated
 description: autotestgbr512_11/19/2019 9:01:13 PM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
