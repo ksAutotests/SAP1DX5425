@@ -1,9 +1,9 @@
 ---
-title: autotestJET8O5updated
-description: autotestE1N8a7_12/2/2019 12:01:08 AM
-tags: [tutorial:product/sapHana]
+title: autotest1jQ75x
+description: autotestgnwtX8_12/2/2019 12:01:08 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 203
+time: 565
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
