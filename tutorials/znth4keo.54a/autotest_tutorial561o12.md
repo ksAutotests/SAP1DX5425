@@ -1,9 +1,9 @@
 ---
-title: autotestP3i125updated
-description: autotest4Z731F_1/20/2020 8:17:56 AM
-tags: [tutorial:product/sapHana]
+title: autotesto1Yb04
+description: autotestAR4070_1/20/2020 8:17:56 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 188
+time: 167
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
