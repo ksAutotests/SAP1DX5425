@@ -1,5 +1,5 @@
 ---
-title: autotest3gpat1
+title: autotest3gpat1updated
 description: autotestd600f6_2/21/2020 12:09:08 AM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
