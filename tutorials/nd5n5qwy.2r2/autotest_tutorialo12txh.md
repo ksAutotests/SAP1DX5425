@@ -1,5 +1,5 @@
 ---
-title: autotest0LGs30
+title: autotest0LGs30updated
 description: autotestno3Lpy_4/2/2020 2:54:34 AM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
