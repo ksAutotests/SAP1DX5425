@@ -1,9 +1,9 @@
 ---
-title: autotestMx266xupdated
-description: autotest4O4y67_6/2/2020 10:34:49 PM
-tags: [tutorial:product/sapHana]
+title: autotest43U610
+description: autotest1m456c_6/2/2020 10:34:49 PM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 51
+time: 189
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
