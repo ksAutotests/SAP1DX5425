@@ -1,5 +1,5 @@
 ---
-title: autotestS16n67
+title: autotestS16n67updated
 description: autotest3o6U02_7/23/2020 4:10:35 PM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
