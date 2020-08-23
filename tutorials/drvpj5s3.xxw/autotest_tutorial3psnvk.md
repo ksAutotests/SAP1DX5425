@@ -1,9 +1,0 @@
----
-title: autotest4Xt8H6
-description: autotestE5e74I_8/23/2020 1:21:07 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
-primary_tag: tutorial:product/sapHana
-time: 983
-author_profile: https://github.com/ksAutotests
-author_name: ksAutotests
----
