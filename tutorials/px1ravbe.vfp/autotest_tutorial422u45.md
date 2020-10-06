@@ -1,5 +1,5 @@
 ---
-title: autotest1s04p6
+title: autotest1s04p6updated
 description: autotestUgNyr1_10/6/2020 5:08:23 AM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
