@@ -1,9 +1,9 @@
 ---
-title: autotest8145Zjupdated
-description: autotestDt581f_11/16/2020 5:46:16 AM
-tags: [tutorial:product/sapHana]
+title: autotesti64ms3
+description: autotestH53eF0_11/16/2020 5:46:16 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 782
+time: 356
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
