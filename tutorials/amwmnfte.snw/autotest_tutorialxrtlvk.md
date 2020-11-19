@@ -1,5 +1,5 @@
 ---
-title: autotest2OrnCC
+title: autotest2OrnCCupdated
 description: autotest26e5v3_11/19/2020 7:36:32 AM
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
