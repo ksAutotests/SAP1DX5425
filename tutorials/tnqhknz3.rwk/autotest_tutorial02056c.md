@@ -1,9 +1,9 @@
 ---
-title: autotestimJRLiupdated
-description: autotestS781aP_6/25/2021 7:29:41 PM
-tags: [tutorial:product/sapHana]
+title: autotestL5swQ8
+description: autotestLRVG53_6/25/2021 7:29:41 PM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
-time: 254
+time: 78
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
